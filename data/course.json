@@ -27,6 +27,7 @@
     "website": "hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006"
   },
   "course_title": "Biomedical Engineering Seminar Series: Topics in Medical Ethics and Responsible Conduct in Research",
+  "hide_download": true,
   "course_description": "This seminar based course explores techniques for recognizing, analyzing, and resolving ethical dilemmas facing healthcare professionals and biomedical researchers in today's highly regulated environment. Guest lectures by practicing clinicians, technologists, researchers, and regulators will include case studies, interactive small group discussions, and role-playing simulations. Professional conduct topics will include authorship, conflict of interest, data acquisition and management, and the protection of human subjects and animals involved in research programs.\n",
   "department_numbers": [
     "HST"
@@ -37,6 +38,7 @@
     "content": "de8cd6f5-3474-891d-5bcf-4f3253c4c4c2",
     "website": "hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "e73bb6aa-54e6-4bda-b394-bcf8acf1b2c4",
   "site_short_id": "hst.590-fall-2005",
